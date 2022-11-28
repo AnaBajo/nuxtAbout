@@ -1,0 +1,15 @@
+{
+  "name": "nuxtabout",
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "generate": "nuxt generate",
+    "start": "nuxt start"
+  },
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "bootstrap-vue": "^2.23.1",
+    "nuxt": "^3.0.0",
+    "vue": "^3.2.45"
+  }
+}
