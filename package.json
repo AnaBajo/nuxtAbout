@@ -11,5 +11,11 @@
     "bootstrap-vue": "^2.23.1",
     "nuxt": "^3.0.0",
     "vue": "^3.2.45"
+  },
+  "devDependencies": {
+    "pug": "^3.0.2",
+    "pug-plain-loader": "^1.1.0",
+    "sass": "^1.56.1",
+    "sass-loader": "^10.4.1"
   }
 }
