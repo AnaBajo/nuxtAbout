@@ -1,3 +1,5 @@
 <template>
-  <p>testing testing</p>
+  <div mt-4>
+    <p m-5>testing testing</p>
+  </div>
 </template>
