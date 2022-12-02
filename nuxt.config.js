@@ -17,5 +17,10 @@ export default {
   name: 'page',
   mode: 'out-in'
   },
-  // modules: ['bootstrap-vue/nuxt']
+  modules: ['bootstrap-vue/nuxt', 'bootstrap/nuxt'],
+  devServerHandlers: []
  }
+
+
+
+//  npx nuxi dev

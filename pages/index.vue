@@ -1,5 +1,5 @@
 <template>
-  <div mt-4>
-    <p m-5>testing testing</p>
+  <div>
+    <p class="m-5 d-flex justify-content-center">testing testing</p>
   </div>
 </template>
