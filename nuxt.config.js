@@ -1,3 +1,4 @@
+
 export default {
   css: [
   '~/assets/scss/custom.scss'
@@ -17,10 +18,11 @@ export default {
   name: 'page',
   mode: 'out-in'
   },
-  modules: ['bootstrap-vue/nuxt', 'bootstrap/nuxt'],
-  devServerHandlers: []
+  // modules: ['bootstrap-vue/nuxt', 'bootstrap/nuxt'],
+  // devServerHandlers: []
  }
 
 
 
-//  npx nuxi dev
+//  npx nuxi dev ==> run dev env
+//  npm list nuxt ==> check nuxt version
